@@ -19,6 +19,7 @@ img.verif_img {
 
 body {
   background: url(../images/handmadepaper.png);
+  position: relative;
 }
 
 h2, h3 {
