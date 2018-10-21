@@ -23,5 +23,12 @@
 }
 
 /* Posititoning Classes */
+.cols-3{
+  -webkit-column-count:3;
+  -moz-column-count:3;
+  column-count:3;
+}
 
-
+.shoes_grass_wrap{
+  width: 66%;
+}
